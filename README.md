@@ -1,4 +1,4 @@
-CareCost Compass
+** CareCost Compass **
 Problem
 
 Families who pay for medicines out of pocket often cannot see what a prescription costs per month, what share of household income it takes, or that products with the same active ingredient and strength may cost less. High out-of-pocket health spending can push households into financial hardship.
